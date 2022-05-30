@@ -14,6 +14,6 @@ function generateBoxes(e){
     }
 }
 
-
+//Math.random will never generate '1'. 
 
 
